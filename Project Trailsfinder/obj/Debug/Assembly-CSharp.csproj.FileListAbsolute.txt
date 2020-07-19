@@ -1,0 +1,2 @@
+C:\Users\Allagan Terminal 1\Project Trailsfinder\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Allagan Terminal 1\Project Trailsfinder\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
